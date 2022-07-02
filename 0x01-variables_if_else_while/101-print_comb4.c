@@ -1,6 +1,5 @@
 #include <stdio.h>
 /**
-
 * main - print triple combos
 *
 * Description: print triple digit combos
