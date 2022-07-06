@@ -6,8 +6,8 @@
  * Return: 0 (Success)
  */
 void print_alphabet(void) {
-int k;
-for (k = 'a'; k <= 'z'; k++)
+char c;
+for (c = 'a'; c <= 'z'; c++)
 {
 _putchar(k);
 }
