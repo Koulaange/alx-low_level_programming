@@ -1,1 +1,1 @@
-C - More functions, more nested loops
+C programming function and nested loop basics
