@@ -11,7 +11,7 @@ void print_rev(char *c)
 
 	for (cayou = 0; c[cayou] != '\0'; cayou++)
 		;
-	for (cayou = cayou - 1; s[cayou] != '\0'; cayou--)
+	for (cayou = cayou - 1; c[cayou] != '\0'; cayou--)
 	{
 		_putchar(c[cayou]);
 	}
