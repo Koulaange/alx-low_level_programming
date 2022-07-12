@@ -3,9 +3,9 @@
 /**
  * print_rev - This function prints a reverse string
  *
- * @s: This is the input string
+ * @c: This is the input string
  */
-void print_rev(char *s)
+void print_rev(char *c)
 {
 	int cayou;
 
